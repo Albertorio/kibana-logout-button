@@ -3,11 +3,4 @@
   "version": "5.6.4",
   "description": "Simple logout button for Kibana. Designed for usage with oauth2_proxy",
   "main": "index.js",
-   "devDependencies": {
-     "@elastic/eslint-config-kibana": "0.0.2",
-     "babel-eslint": "4.1.8",
-     "eslint": "1.10.3",
-     "eslint-plugin-mocha": "1.1.0",
-     "@elastic/plugin-helpers": "5.0.0-beta1"
-  }
 }
