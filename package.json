@@ -3,6 +3,10 @@
   "version": "5.6.4",
   "description": "Simple logout button for Kibana. Designed for usage with oauth2_proxy",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Albertorio/kibana-logout-button"
+  },
   "scripts": {
     "lint": "eslint",
     "start": "plugin-helpers start",
