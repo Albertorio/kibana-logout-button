@@ -7,14 +7,6 @@
     "type": "git",
     "url": "https://github.com/Albertorio/kibana-logout-button"
   },
-  "scripts": {
-    "lint": "eslint",
-    "start": "plugin-helpers start",
-    "test:server": "plugin-helpers test_server",
-    "test:browser": "plugin-helpers test_browser",
-    "build": "plugin-helpers build",
-    "postinstall": "plugin-helpers postinstall"
-  },
   "devDependencies": {
     "@elastic/eslint-config-kibana": "0.0.2",
     "babel-eslint": "4.1.8",
