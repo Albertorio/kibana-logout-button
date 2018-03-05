@@ -1,6 +1,6 @@
 {
   "name": "kibana-logout-button",
-  "version": "0.0.0",
+  "version": "5.6.4",
   "description": "Simple logout button for Kibana. Designed for usage with oauth2_proxy",
   "main": "index.js",
   "scripts": {
